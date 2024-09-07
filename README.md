@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! My Name is Milan</h1>
+<h1 align="center">Hi, my name is Milan!</h1>
 <h3 align="center">Linux Systems / DevOps / SRE / Platform Engineering</h3>
 
 Here's my current GNU/Emacs config: https://github.com/M1lan/.emacs.d
