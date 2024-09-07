@@ -7,7 +7,8 @@ Here's my current GNU/Emacs config: https://github.com/M1lan/.emacs.d
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1lan" alt="m1lan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/insomniasalt" target="blank"><img src="https://img.shields.io/twitter/follow/insomniasalt?logo=twitter&style=for-the-badge" alt="insomniasalt" /></a> </p>
+![X (formerly Twitter) Follow]()
+<p align="left"> <a href="https://x.com/insomniasalt" target="blank"><img src="https://img.shields.io/twitter/follow/insomniasalt" alt="insomniasalt" /></a> </p>
 
 - 🔭 I’m currently working on **DevSecOps**
 
