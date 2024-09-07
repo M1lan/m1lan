@@ -7,7 +7,6 @@ Here's my current GNU/Emacs config: https://github.com/M1lan/.emacs.d
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1lan" alt="m1lan" /></a> </p>
 
-![X (formerly Twitter) Follow]()
 <p align="left"> <a href="https://x.com/insomniasalt" target="blank"><img src="https://img.shields.io/twitter/follow/insomniasalt" alt="insomniasalt" /></a> </p>
 
 - 🔭 I’m currently working on **DevSecOps**
@@ -20,9 +19,8 @@ Here's my current GNU/Emacs config: https://github.com/M1lan/.emacs.d
 
 - 📫 How to reach me **milan.santosi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me for work:</h3>
 <p align="left">
-<a href="https://twitter.com/insomniasalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="insomniasalt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/milan-santosi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-santosi" height="30" width="40" /></a>
 </p>
 
