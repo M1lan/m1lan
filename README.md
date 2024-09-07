@@ -1,6 +1,8 @@
 <h1 align="center">Hello World! My Name is Milan</h1>
 <h3 align="center">Linux Systems / DevOps / SRE / Platform Engineering</h3>
 
+Here's my current GNU/Emacs config: https://github.com/M1lan/.emacs.d
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1lan&label=Profile%20views&color=0e75b6&style=flat" alt="m1lan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1lan" alt="m1lan" /></a> </p>
