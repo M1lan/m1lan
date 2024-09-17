@@ -2,6 +2,7 @@
 <h3 align="center">Linux Systems / DevOps / SRE / Platform Engineering / Security </h3>
 
 Here's my current GNU/Emacs config: https://github.com/M1lan/.emacs.d
+
 Here's my personal [Bash Bible](https://gist.github.com/M1lan/1454743f94f455a0aeff692c29a71ea0); hopefully the last production script template on earth.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1lan&label=Profile%20views&color=0e75b6&style=flat" alt="m1lan" /> </p>
