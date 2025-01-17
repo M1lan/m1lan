@@ -13,13 +13,13 @@ Here's my personal [Bash Bible](https://gist.github.com/M1lan/1454743f94f455a0ae
 
 - 🔭 I’m currently working on **DevSecOps**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Vue.js** and paused learning **Rust** for now.
 
 - 👯 I’m looking to collaborate on **Platform Engineering initiatives**
 
-- 💬 Ask me about **Bash, Go, Linux, Kubernetes, Docker, AWS, CI/CD,**
+- 💬 Love to talk about **Bash, Go, Linux, Kubernetes, Docker, AWS, CI/CD, DevOps, SRE, Platforms**
 
-- 📫 How to reach me **milan.santosi@gmail.com**
+- 📫 How to reach me: **milan.santosi@gmail.com**
 
 <h3 align="left">Connect with me for work:</h3>
 <p align="left">
