@@ -1,7 +1,9 @@
 <h1 align="center">Hi, my name is Milan!</h1>
 <h3 align="center">Linux Systems / DevOps / SRE / Platform Engineering / Security </h3>
 
-Here's my current GNU/Emacs config: https://github.com/M1lan/.emacs.d
+Currently no longer available for hire. 
+
+Here's a recent GNU/Emacs config: https://github.com/M1lan/.emacs.d (updated eventually)
 
 Here's my personal [Bash Bible](https://gist.github.com/M1lan/1454743f94f455a0aeff692c29a71ea0); hopefully the last production script template on earth.
 
@@ -13,13 +15,13 @@ Here's my personal [Bash Bible](https://gist.github.com/M1lan/1454743f94f455a0ae
 
 - 🔭 I’m currently working on **DevSecOps**
 
-- 🌱 I’m currently learning **Vue.js** and paused learning **Rust** for now.
+- 🌱 I’m currently done learning **Vue.js** and continue learning **Rust** after taking a break.
 
 - 👯 I’m looking to collaborate on **Platform Engineering initiatives**
 
 - 💬 Love to talk about **Bash, Go, Linux, Kubernetes, Docker, AWS, CI/CD, DevOps, SRE, Platforms**
 
-- 📫 How to reach me: **milan.santosi@gmail.com**
+- 📫 How to reach me: **milan.santosi@gmail.com** or @telemilan or @insomniaSalt
 
 <h3 align="left">Connect with me for work:</h3>
 <p align="left">
